@@ -1,0 +1,3 @@
+C:/Users/gerso/CLionProjects/repositoryEstruturaDeDados/cmake-build-debug/CMakeFiles/repositoryEstruturaDeDados.dir
+C:/Users/gerso/CLionProjects/repositoryEstruturaDeDados/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gerso/CLionProjects/repositoryEstruturaDeDados/cmake-build-debug/CMakeFiles/rebuild_cache.dir
