@@ -2,22 +2,23 @@
 //// Created by gerso on 10/08/2024.
 ////
 //
-//# include <iostream>
+//#include <iostream>
+//#include <cstring>
 //using namespace std;
 //
 //int main()
 //{
-//    char string1[100];
-//    char string2[100];
+//    char stringUm[100];
+//    char stringDois[100];
 //
-//    cout << "Insira a primeira string: \n";
-//    cin.getline(string1, sizeof(string1));
+//    cout << "Insira a string 1:" << endl;
+//    cin.getline(stringUm, size(stringUm));
 //
-//    cout << "Insira a segunda string: \n";
-//    cin.getline(string2, sizeof(string2));
+//    cout << "Insira a string 2:" << endl;
+//    cin.getline(stringDois, size(stringDois));
 //
-//    cout << "String1: " << string1 << "\n" << endl;
-//    cout << "String2: " << string2 << "\n" << endl;
+//    cout << "A segunda letra da primeira string: " << stringUm[1] << endl;
+//    cout << "A penuntima letra da segunda string: " << stringDois[strlen(stringDois) - 2] << endl;
 //
 //    return 0;
 //}
