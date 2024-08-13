@@ -12,8 +12,14 @@ int main()
     int aux = 0;
     int somarPares = 0;
 
-    cout << "Quantos valores vao ser inseridos (de 0 a 10)?" << endl;
-    cin >> numValores;
+    while(true){
+        cout << "Quantos valores vao ser inseridos (de 0 a 10)?" << endl;
+        cin >> numValores;
+
+        if (numValores <= 10) {
+            break;
+        }
+    }
     cout << "Insira os " << numValores << " valores:" << endl;
     int variavelComposta[numValores];
 
@@ -40,7 +46,6 @@ int main()
             cout << "Posicao impar considerando o zero como posicao inicial: " << i <<
             "\t" << "Valor na posicao: " << variavelComposta[i] << endl;
             if (variavelComposta[i]%2 == 0) {
-
                 somarPares += variavelComposta[i];
             }
         }
