@@ -18,9 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3945b07-3828-43f0-8484-52b224b34717" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade1/vetores/questao4/variavelComposta.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade1/vetores/questao4/variavelComposta.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="e3945b07-3828-43f0-8484-52b224b34717" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +161,7 @@
       <workItem from="1723429573547" duration="393000" />
       <workItem from="1723430977574" duration="693000" />
       <workItem from="1723507595393" duration="246000" />
-      <workItem from="1723509368136" duration="1918000" />
+      <workItem from="1723509368136" duration="2266000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
