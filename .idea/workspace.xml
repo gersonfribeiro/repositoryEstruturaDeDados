@@ -18,7 +18,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3945b07-3828-43f0-8484-52b224b34717" name="Changes" comment="commit" />
+    <list default="true" id="e3945b07-3828-43f0-8484-52b224b34717" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alunosStruct.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grausCelsius.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idadeEmDias.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maiorValor.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nadadores.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/populacao.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade2/questao1/alunosStruct.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade2/questao2/maiorValor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade2/questao3/populacao.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade2/questao4/grausCelsius.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade2/questao5/nadadores.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade2/questao6/pesoIdeal.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade2/questao7/idadeEmDias.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +66,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "C/C++ File.alunosStruct.cpp.executor": "Run",
     "C/C++ File.aumentoSalario.cpp.executor": "Run",
+    "C/C++ File.grausCelsius.cpp.executor": "Run",
+    "C/C++ File.idadeEmDias.cpp.executor": "Run",
+    "C/C++ File.maiorValor.cpp.executor": "Run",
+    "C/C++ File.nadadores.cpp.executor": "Run",
+    "C/C++ File.pesoIdeal.cpp.executor": "Run",
+    "C/C++ File.populacao.cpp.executor": "Run",
     "C/C++ File.posicoesStrings.cpp.executor": "Run",
     "C/C++ File.recursividade.cpp.executor": "Run",
     "C/C++ File.substiuirCaracteres.cpp.executor": "Run",
@@ -59,6 +82,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
@@ -77,10 +101,10 @@
       <recent name="C:\Users\gerso\OneDrive\Documentos\Fagoc\2024.2\EstruturaDeDados\repositoryEstruturaDeDados\repositoryEstruturaDeDados\recursividade" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.variavelComposta.cpp">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="C/C++ File.pesoIdeal.cpp">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="aumentoSalario.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="aumentoSalario.cpp" CONFIG_NAME="aumentoSalario.cpp">
@@ -89,14 +113,32 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="aumentoSalario.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="aumentoSalario.cpp" CONFIG_NAME="aumentoSalario.cpp">
-      <option name="sourceFile" value="repositoryEstruturaDeDados\Atividade1\strings\questao4\aumentoSalario.cpp" />
+    <configuration name="grausCelsius.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="grausCelsius.cpp" CONFIG_NAME="grausCelsius.cpp">
+      <option name="sourceFile" value="repositoryEstruturaDeDados\Atividade2\questao4\grausCelsius.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="posicoesStrings.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="posicoesStrings.cpp" CONFIG_NAME="posicoesStrings.cpp">
-      <option name="sourceFile" value="repositoryEstruturaDeDados\Atividade1\strings\questao2\posicoesStrings.cpp" />
+    <configuration name="idadeEmDias.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="idadeEmDias.cpp" CONFIG_NAME="idadeEmDias.cpp">
+      <option name="sourceFile" value="repositoryEstruturaDeDados\Atividade2\questao7\idadeEmDias.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nadadores.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="nadadores.cpp" CONFIG_NAME="nadadores.cpp">
+      <option name="sourceFile" value="repositoryEstruturaDeDados\Atividade2\questao5\nadadores.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pesoIdeal.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="pesoIdeal.cpp" CONFIG_NAME="pesoIdeal.cpp">
+      <option name="sourceFile" value="repositoryEstruturaDeDados\Atividade2\questao6\pesoIdeal.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="populacao.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="populacao.cpp" CONFIG_NAME="populacao.cpp">
+      <option name="sourceFile" value="repositoryEstruturaDeDados\Atividade2\questao3\populacao.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -113,37 +155,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="recursividade.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="recursividade.cpp" CONFIG_NAME="recursividade.cpp">
-      <option name="sourceFile" value="repositoryEstruturaDeDados\Recursividade\recursividade.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="substiuirCaracteres.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="substiuirCaracteres.cpp" CONFIG_NAME="substiuirCaracteres.cpp">
       <option name="sourceFile" value="repositoryEstruturaDeDados\Atividade1\strings\questao3\substiuirCaracteres.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="substiuirCaracteres.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="substiuirCaracteres.cpp" CONFIG_NAME="substiuirCaracteres.cpp">
-      <option name="sourceFile" value="repositoryEstruturaDeDados\Atividade1\strings\questao3\substiuirCaracteres.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="variavelComposta.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="variavelComposta.cpp" CONFIG_NAME="variavelComposta.cpp">
-      <option name="sourceFile" value="repositoryEstruturaDeDados\Atividade1\vetores\questao4\variavelComposta.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.variavelComposta.cpp" />
-        <item itemvalue="C/C++ File.aumentoSalario.cpp" />
-        <item itemvalue="C/C++ File.substiuirCaracteres.cpp" />
-        <item itemvalue="C/C++ File.posicoesStrings.cpp" />
-        <item itemvalue="C/C++ File.recursividade.cpp" />
+        <item itemvalue="C/C++ File.pesoIdeal.cpp" />
+        <item itemvalue="C/C++ File.idadeEmDias.cpp" />
+        <item itemvalue="C/C++ File.nadadores.cpp" />
+        <item itemvalue="C/C++ File.grausCelsius.cpp" />
+        <item itemvalue="C/C++ File.populacao.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +185,8 @@
       <workItem from="1723429573547" duration="393000" />
       <workItem from="1723430977574" duration="693000" />
       <workItem from="1723507595393" duration="246000" />
-      <workItem from="1723509368136" duration="3405000" />
+      <workItem from="1723509368136" duration="3475000" />
+      <workItem from="1723780217393" duration="6888000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
