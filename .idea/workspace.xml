@@ -18,21 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3945b07-3828-43f0-8484-52b224b34717" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/buscarbinaria.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fatorial.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idade.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrizes.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minutos.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade3/questao1/idade.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade3/questao2/minutos.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade3/questao3/tempo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade3/questao4/matrizes.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade3/questao5/buscarbinaria.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade3/questao6/fatorial.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/Atividade3/questao7/fibonacci.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e3945b07-3828-43f0-8484-52b224b34717" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,22 +52,15 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;C/C++ File.alunosStruct.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.aumentoSalario.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.buscarbinaria.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.fatorial.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.fibonacci.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.grausCelsius.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.idade.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.idadeEmDias.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.maiorValor.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.matrizes.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.minutos.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.nadadores.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.pesoIdeal.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.populacao.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.posicoesStrings.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.recursividade.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.substiuirCaracteres.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.tempo.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.variavelComposta.cpp.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -90,14 +69,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;entregaAtv3&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/gerso/OneDrive/Documentos/Fagoc/2024.2/EstruturaDeDados/repositoryEstruturaDeDados&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;,
     &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -107,7 +85,7 @@
       <recent name="C:\Users\gerso\OneDrive\Documentos\Fagoc\2024.2\EstruturaDeDados\repositoryEstruturaDeDados\repositoryEstruturaDeDados\recursividade" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="C/C++ File.aumentoSalario.cpp">
     <configuration name="aumentoSalario.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="repositoryEstruturaDeDados" TARGET_NAME="aumentoSalario.cpp" CONFIG_NAME="aumentoSalario.cpp">
       <option name="sourceFile" value="repositoryEstruturaDeDados\Atividade1\strings\questao4\aumentoSalario.cpp" />
       <method v="2">
