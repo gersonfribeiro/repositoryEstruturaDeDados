@@ -18,7 +18,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3945b07-3828-43f0-8484-52b224b34717" name="Changes" comment="commit" />
+    <list default="true" id="e3945b07-3828-43f0-8484-52b224b34717" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/repositoryEstruturaDeDados/AtividadeRevisao/controleAcoes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/repositoryEstruturaDeDados/AtividadeRevisao/controleAcoes.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,6 +162,7 @@
       <workItem from="1724117782430" duration="23000" />
       <workItem from="1724285576915" duration="1635000" />
       <workItem from="1724372400606" duration="6785000" />
+      <workItem from="1724984174122" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
